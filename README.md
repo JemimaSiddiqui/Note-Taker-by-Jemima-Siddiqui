@@ -42,7 +42,7 @@ If you would like to acess the source code, please navigate to the following pub
 * After the repository has been cloned to your local machine, open the files using Visual Studio application. 
 
 ## Usage
-The application has been deployed to a heroku page which can be found here: [https://note-taker-by-jemima-siddiqui.herokuapp.com/notes](https://note-taker-by-jemima-siddiqui.herokuapp.com). 
+The application has been deployed to a heroku page which can be found here: [https://note-taker-by-jemima-siddiqui.herokuapp.com](https://note-taker-by-jemima-siddiqui.herokuapp.com). 
 
 * Step 1: Change into the directory of the application 
 * Step 2: Run by using the following command in the command terminal in VS Code. 
