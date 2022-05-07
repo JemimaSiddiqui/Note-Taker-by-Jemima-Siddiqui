@@ -1,6 +1,15 @@
-[
+{
+    "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+        "title":"Welcome to the Note Taker application!",
+        "text":"This application allows users to add notes. Users can click on the + icon and the click save to add and save a note.",
+        "id": "0"
+    }, 
+    {
+        "title": "Deleting Notes",
+        "text": "Users can delete notes by clicking on the bin icon inline with a note.",
+        "id": "1"
+      }
+    
+    ]
+} 
